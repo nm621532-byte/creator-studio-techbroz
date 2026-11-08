@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://creator-studio-tab.sites.tab.bot/sitemap.xml
