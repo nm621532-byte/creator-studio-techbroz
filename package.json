@@ -1,0 +1,9 @@
+{
+  "name": "creator-studio-techbroz",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Creator Studio by Tab: YouTube thumbnail, title, tags, 30-day plan, Shorts script and channel checklist. Vanilla PWA.",
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
